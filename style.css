@@ -1,0 +1,21 @@
+
+input {
+    margin-top:100px;
+    margin-left:220px;
+    width:350px;
+    height: 40px;
+    display: block;
+    padding-left:395px;
+}
+#output {
+    margin-top: 45px;
+    width:100px;
+    margin-left:400px;
+    background: lightgreen;
+}
+#btn {
+    background-color: blue;
+}
+h1{
+    text-align: center;
+}
